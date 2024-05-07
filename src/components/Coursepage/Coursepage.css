@@ -1,0 +1,18 @@
+.coursepage-container{
+    padding: 0;
+    margin:0;
+    display: flex;
+    width: 100%;
+}
+.tableofcontents{
+    padding:10px;
+    width: 30%;
+    /* background-color: blue; */
+}
+.coursepage-content{
+    width: 100%;
+    /* background-color: brown; */
+}
+.coursepage-content p{
+    font-size: 1.5rem;
+}
